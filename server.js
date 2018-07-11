@@ -1,12 +1,22 @@
 import Deck from "./Deck";
 import GinRummyRules from "./GinRummyRules";
+const express = require('express');
+const socketIO = require('socket.io');
+const path = require('path');
 
-const io = require('socket.io')();
+const PORT = process.env.PORT || 8000;
+const INDEX = path.join(__dirname, 'build');
+
+console.log("index: ", INDEX);
+
+//start server
+const server = express()
+    .use(express.static(INDEX, { maxAge: 86400000 }))
+    .listen(PORT, () => console.log(`Listening on ${ PORT }`));
+
 const { Map, List } = require('immutable')
 
-const port = 8000;
-io.listen(port);
-console.log('listening on port ', port);
+var io = socketIO(server);
 let deck = new Deck();
 let rules = new GinRummyRules();
 
@@ -182,38 +192,7 @@ function addNewPlayer(playerId) {
     });
 }
 
-var path = require('path');
-var express = require("express");
-var app = express();
 
-//use logger
-// app.use(express.logger());
-
-//compress with gzip/deflate
-// app.use(express.compress());
-
-//serve up static pages with max-age headers of 1 day
-app.use(express.static(path.join(__dirname, './static-assets'), { maxAge: 86400000 }));
-
-//body parsing middleware (for json, urlencoded, and multipart responses)
-// app.use(express.bodyParser());
-
-//handle any errors
-app.use(function(err, req, res, next){
-    console.error(err.stack);
-    res.send(500, 'Something broke!');
-});
-
-// Render the app
-app.get('/', function(req, res) {
-    res.sendfile(path.join(__dirname, './static-assets/index.html'));
-});
-
-//start server
-var staticPort = process.env.PORT || 5000;
-app.listen(staticPort, function() {
-    console.log("Listening on " + staticPort);
-});
 
 // handN: deck.deal(10),
 //     handS: deck.deal(10),

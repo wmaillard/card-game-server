@@ -2,6 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510ed06d-7890-4207-8395-585aa768441f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/asset-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/css/main.d3e8c312.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/css/main.d3e8c312.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/js/main.c4d50290.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/js/main.c4d50290.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/10c.46d30fd4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/10d.7f2f14fe.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/10h.c22bc3db.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/10s.241d8ed7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/1c.5522f7ee.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/1d.74a874d9.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/1h.ef7c50b8.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/1s.b39d7ba4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/1s2.49b14f5f.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/2c.8dc0f91e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/2d.9b2b7d93.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/2h.25a4bbad.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/2s.c0ad7af1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/3c.ee94f47c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/3d.62d35b8b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/3h.6d8ff3cf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/3s.203ae462.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/4c.563d3b84.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/4d.f8ffb533.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/4h.8dfeaf44.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/4s.c2b2773e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/5c.6d08c7ed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/5d.c4aaf080.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/5h.9ec9a068.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/5s.c33993c5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/6c.a50f5ff5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/6d.059d1dd1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/6h.8f4927bf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/6s.7a17f80a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/7c.e01096e8.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/7d.9f5c264a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/7h.70e74661.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/7s.ed1ebdb6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/8c.9d0a476c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/8d.1939b5d5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/8h.c1f64ceb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/8s.8766a7e1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/9c.17b4ae55.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/9d.c7cf4433.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/9h.20dd2315.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/9s.4a95f37c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/b.36829967.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/jc.805671d1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/jd.a01339b2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/jh.2a10f735.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/js.9e20aecd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/kc.57675a2c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/kd.f537ae10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/kh.2ea2a962.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/ks.17a0a4d7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/qc.c47281bb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/qd.eaa1f925.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/qh.37ac6fed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static-assets/static/media/qs.348b64ba.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
@@ -14,21 +75,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="198" column="24" lean-forward="true" selection-start-line="198" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+            <state relative-caret-position="88">
+              <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -73,8 +134,8 @@
       <find>activeP</find>
       <find>primaryHand</find>
       <find>activePlayer</find>
-      <find>sortHands</find>
       <find>node server.js</find>
+      <find>sortHands</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,8 +152,8 @@
         <option value="$USER_HOME$/Desktop/convert.js" />
         <option value="$PROJECT_DIR$/GinRummyRules.js" />
         <option value="$PROJECT_DIR$/Deck.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -255,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1531198358942</updated>
       <workItem from="1531198360451" duration="2000" />
-      <workItem from="1531198381756" duration="28137000" />
+      <workItem from="1531198381756" duration="29812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28139000" />
+    <option name="totallyTimeSpent" value="29814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -330,21 +391,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="198" column="24" lean-forward="true" selection-start-line="198" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+        <state relative-caret-position="88">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
