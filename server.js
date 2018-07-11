@@ -182,24 +182,38 @@ function addNewPlayer(playerId) {
     });
 }
 
-const fs = require('fs');
-const http = require('http');
-const express = require('express');
+var path = require('path');
+var express = require("express");
+var app = express();
 
-const app = express();
-app.use(express.static("./static-assets"));
-app.get('/', function(req, res) {
-    return res.end('<p>This server serves up static files.</p>');
+//use logger
+// app.use(express.logger());
+
+//compress with gzip/deflate
+// app.use(express.compress());
+
+//serve up static pages with max-age headers of 1 day
+app.use(express.static(path.join(__dirname, './static-assets'), { maxAge: 86400000 }));
+
+//body parsing middleware (for json, urlencoded, and multipart responses)
+// app.use(express.bodyParser());
+
+//handle any errors
+app.use(function(err, req, res, next){
+    console.error(err.stack);
+    res.send(500, 'Something broke!');
 });
 
-const options = {
-    // key: fs.readFileSync('key.pem', 'utf8'),
-    // cert: fs.readFileSync('cert.pem', 'utf8'),
-    // passphrase: process.env.HTTPS_PASSPHRASE || ''
-};
-const server = http.createServer(options, app);
+// Render the app
+app.get('/', function(req, res) {
+    res.sendfile(path.join(__dirname, './static-assets/index.html'));
+});
 
-server.listen(process.env.SERVER_PORT || 8443);
+//start server
+var staticPort = process.env.PORT || 5000;
+app.listen(staticPort, function() {
+    console.log("Listening on " + staticPort);
+});
 
 // handN: deck.deal(10),
 //     handS: deck.deal(10),
