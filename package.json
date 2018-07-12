@@ -7,7 +7,7 @@
     "static-server": "serve -s static-assets",
     "game-server": "babel-node server.js --presets es2015,stage-2",
     "game-server-dev": "nodemon server.js --exec babel-node --presets es2015,stage-2",
-    "start": "PORT=8000 babel-node server.js --presets es2015,stage-2"
+    "start": "babel-node server.js --presets es2015,stage-2"
   },
   "author": "",
   "license": "ISC",
