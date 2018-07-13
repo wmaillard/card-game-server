@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="510ed06d-7890-4207-8395-585aa768441f" name="Default" comment="" />
+    <list default="true" id="510ed06d-7890-4207-8395-585aa768441f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="199" column="43" lean-forward="false" selection-start-line="199" selection-start-column="43" selection-end-line="199" selection-end-column="43" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -33,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Deck.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Deck.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deck.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="463">
@@ -88,8 +90,8 @@
         <option value="$USER_HOME$/Desktop/convert.js" />
         <option value="$PROJECT_DIR$/GinRummyRules.js" />
         <option value="$PROJECT_DIR$/Deck.js" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -264,12 +266,12 @@
       <updated>1531198358942</updated>
       <workItem from="1531198360451" duration="2000" />
       <workItem from="1531198381756" duration="29812000" />
-      <workItem from="1531354769734" duration="409000" />
+      <workItem from="1531354769734" duration="2953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30223000" />
+    <option name="totallyTimeSpent" value="32767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -366,16 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -389,6 +381,16 @@
         <state relative-caret-position="463">
           <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="199" column="43" lean-forward="false" selection-start-line="199" selection-start-column="43" selection-end-line="199" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -31,6 +31,7 @@ let rules = new GinRummyRules();
 let state = Map({
     players : Map(),
     playersNeededToStart : 2,
+    maxNumberOfPlayers : 2,
     discard : [],
     draw : [],
     activePlayer : null
@@ -40,9 +41,20 @@ let sockets = {};
 let gameHasStarted = false;
 
 io.on('connection', (socket) => {
-    console.log('***new connection***')
     sockets[socket.id] = socket;
-    addNewPlayer(socket.id);
+
+    if(state.get("players").keySeq().toArray().length < state.get("maxNumberOfPlayers")) {
+        addNewPlayer(socket.id);
+    } else {
+        console.log('disconnecting')
+        socket.disconnect();
+        return;
+    }
+    console.log('***new connection***');
+    if(gameHasStarted && !state.get("activePlayer")) {
+        state = state.set("activePlayer", socket.id); //this is foobar if we have multiple players going and coming
+                                    //we need a better system for tracking players, login, session, etc
+    }
     if(gameIsReadyToStart()) {
         console.log('starting game............');
         startGame();
@@ -54,8 +66,6 @@ io.on('connection', (socket) => {
         console.log('state just before sending: ', state);
     }
     sendStateUpdate(sockets);
-    console.log(socket.id);
-    console.log("state: ", state);
 
     socket.on('disconnect', (reason) => {
         console.log("remove: ", socket.id);
@@ -175,10 +185,24 @@ function sortHands() {
 function removePlayer(playerId) {
     abandonedPlayers.push(
         state.get("players").get(playerId)
-
     );
+    var activePlayer = state.get("activePlayer");
+    if(activePlayer === playerId) {
+        activePlayer = null;
+        //**** If we want to pass the active player to the next player***
+        // console.log('Active player has left...')
+        // var activePlayerIndex = state.get("players").keySeq().indexOf(playerId) + 1;
+        // if(activePlayerIndex >= state.get("players").keySeq().length) {
+        //     activePlayerIndex = 0;
+        // }
+        // console.log('Active player info ', activePlayerIndex, state.get("players").keySeq());
+        // activePlayer = state.get("players").keySeq().toArray()[activePlayerIndex];
+        // console.log('Active player is now: ', activePlayer);
+
+    }
     state = state.merge({
-        players : state.get("players").remove(playerId)
+        players : state.get("players").remove(playerId),
+        activePlayer : activePlayer
     });
 }
 
