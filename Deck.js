@@ -82,6 +82,10 @@ export default class Deck {
         return hand.sort(function(a, b){
             return sortBySuit(a, b);
         });
+        // var melds = [];
+        // for(var i = 0; i < sortedBySuit.length; i++) {
+        //     if(sortedBySuit[i + 1][0] ===  )
+        // }
     }
 
 }

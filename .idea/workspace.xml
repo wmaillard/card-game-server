@@ -2,6 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510ed06d-7890-4207-8395-585aa768441f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.d3e8c312.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.d3e8c312.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.0e3f075f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.0e3f075f.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/10c.46d30fd4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/10d.7f2f14fe.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/10h.c22bc3db.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/10s.241d8ed7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/1c.5522f7ee.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/1d.74a874d9.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/1h.ef7c50b8.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/1s.b39d7ba4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/1s2.49b14f5f.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/2c.8dc0f91e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/2d.9b2b7d93.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/2h.25a4bbad.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/2s.c0ad7af1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/3c.ee94f47c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/3d.62d35b8b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/3h.6d8ff3cf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/3s.203ae462.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/4c.563d3b84.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/4d.f8ffb533.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/4h.8dfeaf44.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/4s.c2b2773e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/5c.6d08c7ed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/5d.c4aaf080.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/5h.9ec9a068.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/5s.c33993c5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/6c.a50f5ff5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/6d.059d1dd1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/6h.8f4927bf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/6s.7a17f80a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/7c.e01096e8.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/7d.9f5c264a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/7h.70e74661.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/7s.ed1ebdb6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/8c.9d0a476c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/8d.1939b5d5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/8h.c1f64ceb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/8s.8766a7e1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/9c.17b4ae55.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/9d.c7cf4433.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/9h.20dd2315.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/9s.4a95f37c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/b.36829967.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/jc.805671d1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/jd.a01339b2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/jh.2a10f735.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/js.9e20aecd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/kc.57675a2c.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/kd.f537ae10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/kh.2ea2a962.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/ks.17a0a4d7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/qc.c47281bb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/qd.eaa1f925.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/qh.37ac6fed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/media/qs.348b64ba.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deck.js" afterPath="$PROJECT_DIR$/Deck.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,14 +78,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="199" column="43" lean-forward="false" selection-start-line="199" selection-start-column="43" selection-end-line="199" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameState.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GameState.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="awsKey.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awsKey.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -28,8 +121,8 @@
       <file leaf-file-name="GinRummyRules.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GinRummyRules.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -38,8 +131,8 @@
       <file leaf-file-name="Deck.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Deck.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="523">
+              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="87" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -74,6 +167,9 @@
       <find>activePlayer</find>
       <find>node server.js</find>
       <find>sortHands</find>
+      <find>static</find>
+      <find>needed</find>
+      <find>removePlayer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,9 +185,12 @@
       <list>
         <option value="$USER_HOME$/Desktop/convert.js" />
         <option value="$PROJECT_DIR$/GinRummyRules.js" />
-        <option value="$PROJECT_DIR$/Deck.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/awsKey.js" />
+        <option value="$PROJECT_DIR$/Deck.js" />
+        <option value="$PROJECT_DIR$/GameState.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -121,27 +220,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="card-game-server" type="b2602c69:ProjectViewProjectNode" />
               <item name="card-game-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="card-game-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="card-game-server" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="card-game-server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="card-game-server" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,12 +354,14 @@
       <updated>1531198358942</updated>
       <workItem from="1531198360451" duration="2000" />
       <workItem from="1531198381756" duration="29812000" />
-      <workItem from="1531354769734" duration="2953000" />
+      <workItem from="1531354769734" duration="4073000" />
+      <workItem from="1531672045152" duration="2509000" />
+      <workItem from="1531794263925" duration="8212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32767000" />
+    <option name="totallyTimeSpent" value="44608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -279,7 +369,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Black Caiman" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Black Caiman" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -287,7 +377,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -313,10 +403,84 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awsKey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GinRummyRules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="87" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="89" column="27" lean-forward="true" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GinRummyRules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="15" lean-forward="true" selection-start-line="87" selection-start-column="15" selection-end-line="87" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -329,9 +493,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -352,18 +514,19 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/convert.js" />
+    <entry file="file://$PROJECT_DIR$/build/static/js/main.c4d50290.js" />
     <entry file="file://$PROJECT_DIR$/GinRummyRules.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/static/js/main.c4d50290.js">
+    <entry file="file://$PROJECT_DIR$/awsKey.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -378,19 +541,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Deck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state relative-caret-position="523">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="87" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="199" column="43" lean-forward="false" selection-start-line="199" selection-start-column="43" selection-end-line="199" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
